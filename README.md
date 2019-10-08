@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project gives a hands-on understanding of how a developmental Ruby on Rails based webpage works. The webpage has the ability to create multiple todo lists and multiple todo items for each list as well as the ability to mark an item as complete. 
